@@ -7,7 +7,7 @@ categories = ["LINUX Unplugged"]
 
 hosts = ["chrislas","wespayne"]
 
-header_image = "/images/shows/linuxun.png"
+header_image = "images/shows/linuxun.png"
 
 +++
 
